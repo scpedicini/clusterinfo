@@ -1,0 +1,6 @@
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\bin\x86\Debug\GetClusterInfo.exe.config
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\bin\x86\Debug\GetClusterInfo.exe
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\bin\x86\Debug\GetClusterInfo.pdb
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\obj\x86\Debug\GetClusterInfo.csprojResolveAssemblyReference.cache
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\obj\x86\Debug\GetClusterInfo.exe
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\obj\x86\Debug\GetClusterInfo.pdb

@@ -1,0 +1,5 @@
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\bin\x86\Release\GetClusterInfo.exe.config
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\bin\x86\Release\GetClusterInfo.exe
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\bin\x86\Release\GetClusterInfo.pdb
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\obj\x86\Release\GetClusterInfo.exe
+C:\Data\Creations\Programming\Visual Studio 2012\GetClusterInfo\GetClusterInfo\obj\x86\Release\GetClusterInfo.pdb
